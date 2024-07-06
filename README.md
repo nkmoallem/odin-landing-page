@@ -1,0 +1,1 @@
+This project integrates all the skills learnt so far from CSS and HTML. This is my first site which involves both HTML and CSS; as you will see in the CSS file, the flex bxo is used heavily.
